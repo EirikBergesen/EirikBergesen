@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EirikBergesen
-- 👀 I’m interested in computers and stuff
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on whatever i can help with
-- 📫 How to reach me: Does github have dm functionality?
+- 👀 I’m interested in computers, code, and programs.
+- 🌱 I’m currently learning how to write programs and code.
+- 💞️ I’m looking to collaborate with any friendly and fun people.
+- 📫 How to reach me: Does GitHub have DM functionality?
 
 <!---
 EirikBergesen/EirikBergesen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
