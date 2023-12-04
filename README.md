@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EirikBergesen
 - 👀 I’m interested in computers, code, and programs.
 - 🌱 I’m currently learning how to write programs and code.
-- 💞️ I’m looking to collaborate with any friendly and fun people.
+- 💞️ I’m looking to collaborate with friendly and fun people.
 - 📫 How to reach me: Does GitHub have DM functionality?
 
 <!---
