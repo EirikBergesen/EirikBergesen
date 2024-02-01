@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eirik
 - 👀 I’m interested in computers, code, and programs.
-- 🌱 I’m currently learning how to computer, code and programs.
+- 🌱 I’m currently learning computers, code and programs.
 - 💞️ I’m looking for a job.
 - 📫 How to reach me: Does GitHub have DM functionality?
 
